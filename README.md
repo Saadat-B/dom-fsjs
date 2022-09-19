@@ -48,7 +48,7 @@ document
   .querySelectorAll(".as-imagegrid-item")
   .forEach((e) => list.push(e.innerText.replace("\nSupport", "")));
 
-console.log(arr);
+console.log(list);
 ```
 
 3. Webiste Name: [Youtube Support](https://support.google.com/youtube/)
